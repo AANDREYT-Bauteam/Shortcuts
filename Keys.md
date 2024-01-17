@@ -32,3 +32,4 @@ Landscape	              Shift + 2
 Modeling	              Shift + 3
 Animation	              Shift + 4
 Placement	              Shift + 5
+Play/Simulate: [Alt + P] or [Alt + S]
