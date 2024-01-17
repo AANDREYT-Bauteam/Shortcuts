@@ -1,4 +1,4 @@
-New Level	            Ctrl + N
+New Level	            Ctrl + N\n
 Open Level	          Ctrl + O
 Save Current Level	  Ctrl + S
 Save Current Level As	Ctrl + Alt + S
