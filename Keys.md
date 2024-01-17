@@ -18,6 +18,7 @@ Show FPS	              Ctrl + Shift + H
 Show Toolbar	          Ctrl + Shift + T
 Show Stats	            Ctrl + L
 Gameview	              G
+Focus                   F
 Immersive Mode	        F11
 Set Bookmark	          Ctrl + 0 (Add any number up to 9 to set a bookmark in the viewport window)
 Perspective	            Alt + G
@@ -32,4 +33,18 @@ Landscape	              Shift + 2
 Modeling	              Shift + 3
 Animation	              Shift + 4
 Placement	              Shift + 5
-Play/Simulate: [Alt + P] or [Alt + S]
+Play/Simulate           Alt + P or Alt + S
+Build Verse Code        Ctrl + Shift + B
+Hide Selected           H
+Unhide All              Ctrl + H
+Snap to Floor           End
+Snap Pivot to Floor     Alt + End
+Snap Bounds to Floor    Shift + End
+Snap Origin to Grid     Ctrl + End
+Select all Adjacent Floor Surfaces    Shift + U
+Select all Adjacent Slant Surfaces    Shift + Y
+Select all Adjacent Surfaces          Shift + J
+Select all Adjacent Wall Surfaces     Shift + W 
+Select all Coplanar Surfaces          Shift + C
+Find in Blueprint           Ctrl + K
+Duplicate and Transform     Alt + Transform
